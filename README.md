@@ -34,4 +34,4 @@ The predictive model in this project is a sequential time series neural network,
 
 - **Rainfall Forecasting:** The primary function of the model is to forecast rainfall based on the input data. Users can select a specific location for rainfall prediction.
 
-- **Validation Accuracy:** The trained model achieves a validation accuracy of approximately 60%, making it a reliable tool for rainfall prediction.
+- **Validation Accuracy:** The trained model achieves a validation accuracy of approximately 80%, making it a reliable tool for rainfall prediction.
